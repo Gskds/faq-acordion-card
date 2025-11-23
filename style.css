@@ -73,7 +73,6 @@ h1 {
 .faq-card {
   background-color: hsl(0, 0%, 100%);
   display: grid;
-  gap: .5rem;
   padding: 0 1rem;
   border-radius: 12px;
 }
