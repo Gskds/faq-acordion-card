@@ -6,7 +6,6 @@ faqQuestions.forEach(question => {
         
         // 1. Toggle current item
         this.classList.toggle('active');
-        // 1.1 Toggle behavior for the icon
         const answer = this.nextElementSibling;
         answer.classList.toggle('active');
         
